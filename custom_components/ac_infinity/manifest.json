@@ -1,8 +1,8 @@
 {
   "domain": "ac_infinity",
-  "name": "AC Infinity",
+  "name": "Zach AC Infinity",
   "codeowners": [
-    "@dalinicus"
+    "@zachnoren"
   ],
   "config_flow": true,
   "dependencies": [],
