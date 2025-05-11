@@ -11,6 +11,7 @@ PLATFORMS = [
     Platform.NUMBER,
     Platform.TIME,
     Platform.SWITCH,
+    Platform.FAN
 ]
 HOST = "http://www.acinfinityserver.com"
 CONF_POLLING_INTERVAL = "polling_interval"
